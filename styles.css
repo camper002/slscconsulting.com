@@ -122,3 +122,6 @@ details p{margin:0 0 18px;color:var(--muted)}
   .cta-row .btn{flex:1}
   .brand img{width:160px}
 }
+
+.cta-alt{margin-top:14px;font-size:.95rem;opacity:.9}
+.cta-alt a{color:inherit;text-decoration:underline}
